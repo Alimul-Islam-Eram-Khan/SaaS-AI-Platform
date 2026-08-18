@@ -19,6 +19,32 @@ The platform provides multiple AI-powered tools through a unified dashboard:
 - 🎬 AI Video Generation
 
 Each tool has its own dedicated interface and API route.
+## ✨ App Showcase
+
+<p align="center">
+  <img src="applook.png" alt="App Look" width="45%"/>
+  <br/>
+  <em>🏠 Clean and modern app look</em>
+</p>
+
+<p align="center">
+  <img src="Dashboard.png" alt="Dashboard" width="90%"/>
+  <br/>
+  <em>📊 Interactive dashboard with insights</em>
+</p>
+
+<p align="center">
+  <img src="upgrade.png" alt="Upgrade Page" width="45%"/>
+  <img src="signup.png" alt="Signup Page" width="45%"/>
+  <br/>
+  <em>🚀 Upgrade options & ✍️ Easy signup flow</em>
+</p>
+
+<p align="center">
+  <img src="facility page.png" alt="Facility Page" width="90%"/>
+  <br/>
+  <em>🏢 Facility management made simple</em>
+</p>
 
 ---
 
